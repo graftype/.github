@@ -1,6 +1,6 @@
 [<img width="2206" alt="graftype" src="https://github.com/user-attachments/assets/41fcfc52-8e53-4412-8f88-d9f1b117bbd1">](https://graftype.com)
 
-# About Evelode
+# About Graftype
 
 We have been actively developing and developing SaaS solutions that are available to everyone.
 
